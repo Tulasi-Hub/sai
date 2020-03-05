@@ -8,14 +8,14 @@
  __my name in italic__
  ___my name in italic___
  
- ##unordered list
+ ## unordered list
  * item 1
  * item 2
     * hey 
     * you 
     
     
- ##ordered
+ ##   ordered
  1. i am hurt 
  2. give me a hand 2
  3. enemies a head 3
